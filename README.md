@@ -1,4 +1,5 @@
-#HODI (ET AMO) - In medio stat virtus
+## HODI (ET AMO) - In medio stat virtus
+
 Questo progetto si propone di svolgere il task di Homotransphobia Detection in Italian (HODI), proposto per la prima volta durante Evalita 2023, tramite tecniche di prompting. 
 
 
